@@ -4,8 +4,8 @@
 	branch = wip
 [submodule "binutils"]
 	path = binutils
-	url = https://github.com/MaxKellermann/binutils-gdb
-	branch = ce-2.34
+	url = https://github.com/salman-javed-nz/binutils-gdb
+	branch = ce-2.43.1
 [submodule "gcc"]
 	path = gcc
 	url = https://github.com/enlyze/gcc
